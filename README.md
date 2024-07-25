@@ -1,4 +1,5 @@
-                              100 Days of Code Challenge
+           100 Days of Code Challenge
+
 Welcome to my 100 Days of Code journey!
 
 This repository will document my progress as I dedicate myself to coding for at least an hour every day for the next 100 days. The goal is to enhance my programming skills, explore new concepts, and build valuable projects.
