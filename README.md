@@ -1,52 +1,24 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>100 Days of Code Challenge</title>
-</head>
-<body style=" font-family: Arial, sans-serif;
-    margin: 20px;">
-    <header style="text-align: center;">
-        <h1>100 Days of Code Challenge</h1>
-    </header>
+                              100 Days of Code Challenge
+Welcome to my 100 Days of Code journey!
 
-    <section style="
-    margin-bottom: 20px">
-        <h2>Welcome to my coding journey!</h2>
-        <p>This repository will document my progress as I dedicate myself to coding for at least an hour every day for the next 100 days. The goal is to enhance my programming skills, explore new concepts, and build valuable projects.</p>
-    </section>
- 
-    <section style="
-    margin-bottom: 20px">
-        <h2>Structure</h2>
-        <p>Each day's work will be organized into its own folder or branch, containing:</p>
-        <ul>
-            <li>Source code</li>
-            <li>Documentation</li>
-            <li>Word document (optional)</li>
-        </ul>
-    </section>
+This repository will document my progress as I dedicate myself to coding for at least an hour every day for the next 100 days. The goal is to enhance my programming skills, explore new concepts, and build valuable projects.
 
-    <section style="
-    margin-bottom: 20px">
-        <h2>Day 0: Foundations</h2>
-        <p>On Day 0, I focused on strengthening my algorithmic foundation by exploring:</p>
-        <ul style="list-style-type: disc;
-    padding-left: 20px;">
-            <li>Euclidean Algorithm</li>
-            <li>Armstrong Numbers</li>
-            <li>Palindromes</li>
-            <li>Mathematical Equation Manipulation</li>
-        </ul>
-    </section>
+Structure
+Each day's work will be organized into its own folder or branch, containing:
 
-    <section style="
-    margin-bottom: 20px">
-        <h2>Contributing</h2>
-        <p>While this repository is primarily for my learning journey, feel free to fork and explore the code. Constructive feedback and suggestions are always welcome!</p>
-    </section>
+Source code: Implementations of algorithms, data structures, or projects.
+Documentation: Explanations, comments, and insights into the code.
+Word document (optional): Additional notes or resources for offline reference.
+Day 0: Foundations
+On Day 0, I focused on strengthening my algorithmic foundation by exploring:
 
-    <footer>
-        <p>#100DaysOfCode #codingchallenge #learncode</p>
-    </footer>
-</body>
-</html>
+Euclidean Algorithm: Efficiently calculating the greatest common divisor.
+Armstrong Numbers: Identifying numbers equal to the sum of their digits raised to the power of the number of digits.
+Palindromes: Determining whether a number or string is the same forwards and backwards.
+Mathematical Equation Manipulation: Practicing basic algebraic operations.
+Contributing
+While this repository is primarily for my learning journey, feel free to fork and explore the code. Constructive feedback and suggestions are always welcome!
+
+Let's learn and grow together!
+
+#100DaysOfCode #codingchallenge #learncode
